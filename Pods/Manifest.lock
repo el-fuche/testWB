@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.8.1)
+  - AlamofireImage (3.5.0):
+    - Alamofire (~> 4.8)
+  - SwiftKeychainWrapper (3.0.1)
+  - UnsplasherSDK (1.0.2):
+    - Alamofire (~> 4.6)
+    - SwiftKeychainWrapper (~> 3.0.1)
+
+DEPENDENCIES:
+  - AlamofireImage
+  - UnsplasherSDK (= 1.0.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - SwiftKeychainWrapper
+    - UnsplasherSDK
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  AlamofireImage: 1aea346f4dda2f6c67622fa5a89fcbb80d79cc16
+  SwiftKeychainWrapper: 38952a3636320ae61bad3513cadd870929de7a4a
+  UnsplasherSDK: 6f37a2621ff941f59af7400533f9f6b0ff1789c1
+
+PODFILE CHECKSUM: 0a1d1fe3a74cc3c6d5634a2b9079f3f57662b6f9
+
+COCOAPODS: 1.5.2
